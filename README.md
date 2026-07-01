@@ -1,5 +1,7 @@
  ${\textsf{\color{#8b1616}this is still a wip...}}$ 
  
+   ![image]( https://github.com/user-attachments/assets/e54d71e8-0954-43f8-b08e-d2dd91fdd160)
+   
 <p aling="center">
  
    ![image](https://github.com/user-attachments/assets/1310ea26-1587-420c-80c9-d5d10a870d9c)
