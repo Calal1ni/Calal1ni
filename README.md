@@ -1,12 +1,12 @@
  ${\textsf{\color{#8b1616}this is still a wip...}}$ 
  
-<div alaing="center">
+<div aling="center">
  
 ![image](https://github.com/user-attachments/assets/d3fa9140-6c16-4c58-b373-d4ef41944443)
  
-</div>
 
-<div>
+
+
   
 ![image](https://github.com/user-attachments/assets/1310ea26-1587-420c-80c9-d5d10a870d9c)
 
