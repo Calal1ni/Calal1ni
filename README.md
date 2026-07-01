@@ -1,14 +1,9 @@
  ${\textsf{\color{#8b1616}this is still a wip...}}$ 
  
 <p aling="center">
- 
+   ![image](https://github.com/user-attachments/assets/1310ea26-1587-420c-80c9-d5d10a870d9c)
 
-
-  
-![image](https://github.com/user-attachments/assets/1310ea26-1587-420c-80c9-d5d10a870d9c)
-
- ${\textsf{\color{#8b1616}𝟣𝟪 𝗒/𝗈  —  24/7 𝗂𝗇 𝗉𝗍  —  𝖨𝖿 𝗎 𝗐𝖺𝗇𝗇𝖺 𝖻𝖾 𝗆𝗒 𝖿𝗋𝗂𝖾𝗇𝖽 𝗍𝗁e𝗇 𝗂𝗇𝗍}}$ ![image](https://github.com/user-attachments/assets/6e8e8d4d-6d4a-42d1-a41c-e6aaf38cfa1f)
-
+   ${\textsf{\color{#8b1616}𝟣𝟪 𝗒/𝗈  —  24/7 𝗂𝗇 𝗉𝗍  —  𝖨𝖿 𝗎 𝗐𝖺𝗇𝗇𝖺 𝖻𝖾 𝗆𝗒 𝖿𝗋𝗂𝖾𝗇𝖽 𝗍𝗁e𝗇 𝗂𝗇𝗍}}$ ![image](https://github.com/user-attachments/assets/6e8e8d4d-6d4a-42d1-a41c-e6aaf38cfa1f)
 </p>
 
 
