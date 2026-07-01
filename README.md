@@ -6,7 +6,7 @@
  
 </div>
 
-<div>
+<div aling="center">
   
 ![image](https://github.com/user-attachments/assets/1310ea26-1587-420c-80c9-d5d10a870d9c)
 
