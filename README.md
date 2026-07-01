@@ -2,7 +2,7 @@ this is still a wip...
 
 <div>
   
-![image](https://github.com/user-attachments/assets/a3c9b6a4-f138-4838-94ae-16095d0d323e)
+![image](https://github.com/user-attachments/assets/1310ea26-1587-420c-80c9-d5d10a870d9c)
 
 </div>
 
