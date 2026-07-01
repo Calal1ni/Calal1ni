@@ -1,5 +1,7 @@
 this is still a wip...
 
+![image](https://github.com/user-attachments/assets/a3c9b6a4-f138-4838-94ae-16095d0d323e)
+
 <!--
 **Calal1ni/Calal1ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
