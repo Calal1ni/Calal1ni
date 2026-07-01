@@ -1,6 +1,6 @@
 this is still a wip...
 
-<div aling="center'>
+<div aling="center">
   
 ![image](https://github.com/user-attachments/assets/a3c9b6a4-f138-4838-94ae-16095d0d323e)
 
