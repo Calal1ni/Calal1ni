@@ -1,4 +1,6 @@
- ${\textsf{\color{#8b1616}this is still a wip...}}$
+ ${\textsf{\color{#8b1616}this is still a wip...}}$ 
+
+![image](https://github.com/user-attachments/assets/d3fa9140-6c16-4c58-b373-d4ef41944443)
 
 <div>
   
