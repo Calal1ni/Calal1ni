@@ -1,4 +1,4 @@
-this is still a wip...
+ ${\textsf{\color{#8b1616}this is still a wip...}}$
 
 <div>
   
