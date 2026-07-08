@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
  
    ![image](https://github.com/user-attachments/assets/67ec9056-95df-4518-8485-302f0f21560a)
 
 
    ${\textsf{\color{#651e69}𝟣𝟪 𝗒/𝗈  —  24/7 𝗂𝗇 𝗉𝗍  —  𝖨𝖿 𝗎 𝗐𝖺𝗇𝗇𝖺 𝖻𝖾 𝗆𝗒 𝖿𝗋𝗂𝖾𝗇𝖽 𝗍𝗁e𝗇 𝗂𝗇𝗍}}$ ![image](https://github.com/user-attachments/assets/6e8e8d4d-6d4a-42d1-a41c-e6aaf38cfa1f)
-</p>
+</div>
 
 
 <!--
