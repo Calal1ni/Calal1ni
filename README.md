@@ -1,6 +1,6 @@
 <div align="center">
  
-   ${\textsf{\color{#651e69}𝟣𝟪 𝗒/𝗈  ⊹—⊹  24/7 𝗂𝗇 𝗉𝗍   ⊹—⊹   𝖨𝖿 𝗎 𝗐𝖺𝗇𝗇𝖺 𝖻𝖾 𝗆𝗒 𝖿𝗋𝗂𝖾𝗇𝖽 𝗍𝗁e𝗇 𝗂𝗇𝗍}}$
+   ${\textsf{\color{#651e69}𝟣𝟪 𝗒/𝗈  ⊹—⊹  go follow my main cachorrita 🗣️🗣️}}$
 
    ![image](https://github.com/user-attachments/assets/357c8686-0052-45df-a5d0-2850abe94378)
   
